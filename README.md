@@ -1,7 +1,8 @@
 Cigan Tool
 Cigan Tool is a command-line utility written in C# that allows users to generate and manage tokens. It provides a simple interface to generate unique tokens, check their validity, and display credits.
-Preview
-![image](https://github.com/cavodexxik/cigan-tool-/assets/166252918/29fc77be-7eb4-4909-ac8a-826b08970a68)
+Preview: ![image](https://github.com/cavodexxik/cigan-tool-/assets/166252918/17d68ef3-c262-4fc9-bcc7-57ecd3812ee5)
+
+
 
 Features
 Token Generation: Generates tokens consisting of alphanumeric characters and hyphens.
