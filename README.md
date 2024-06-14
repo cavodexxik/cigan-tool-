@@ -18,7 +18,7 @@ Installation
 Clone the repository: https://github.com/cavodexxik/cigan-tool-/
 
 
-git clone https://github.com/cavodexxik/cigan-tool-/blob/main/README.md
+git clone https://github.com/cavodexxik/cigan-tool-/
 Open the project in Visual Studio or any preferred C# IDE. Build and run the application to start using the Cigan Tool.
 
 Requirements
