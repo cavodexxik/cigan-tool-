@@ -15,10 +15,10 @@ Example
 To generate 5 tokens, simply type tkn and enter the number 5 when prompted. The tokens will be displayed, saved to a file named Generated.txt, and their validity can be checked using the chck command.
 
 Installation
-Clone the repository:
+Clone the repository: https://github.com/cavodexxik/cigan-tool-/
 
 
-git clone https://github.com/cavodexxik/cigan-tool
+git clone https://github.com/cavodexxik/cigan-tool-/blob/main/README.md
 Open the project in Visual Studio or any preferred C# IDE. Build and run the application to start using the Cigan Tool.
 
 Requirements
